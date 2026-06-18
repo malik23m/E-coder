@@ -34,3 +34,9 @@ A modern, responsive web development project built with **HTML5, CSS3, Bootstrap
 - **SCSS** - Enhanced CSS
 
 ## 📁 Project Structure
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/malik23m/E-coder.git
